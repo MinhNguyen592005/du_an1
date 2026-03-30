@@ -193,7 +193,7 @@ const ProductDetail = () => {
                   Đang thêm...
                 </>
               ) : (
-                <>🛒 Thêm vào giỏ hàng</>
+                <> Thêm vào giỏ hàng</>
               )}
             </button>
             <button
