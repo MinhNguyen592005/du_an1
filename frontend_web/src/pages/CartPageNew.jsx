@@ -237,7 +237,7 @@ function CartPage() {
                       disabled={updating}
                       title="Xóa sản phẩm"
                     >
-                      ✕
+                      Xóa
                     </button>
                   </div>
                 </div>

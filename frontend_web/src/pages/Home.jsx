@@ -185,8 +185,11 @@ const Home = () => {
       {/* Hero Section */}
       <section className="hero-section">
         <div className="hero-content">
-          <h1>Chào mừng đến với cửa hàng của chúng tôi</h1>
-          <p>Khám phá những sản phẩm tuyệt vời với giá tốt nhất</p>
+          <h1>Định hình phong cách - Khẳng định bản sắc</h1>
+          <p>
+            Tuyển chọn những thiết kế mới nhất dành riêng cho bạn với mức giá ưu
+            đãi
+          </p>
         </div>
       </section>
 
@@ -305,10 +308,6 @@ const Home = () => {
                   className="product-image-wrapper"
                   onClick={() => navigate(`/product/${product.id}`)}
                 >
-                  <div className="product-badges">
-                    <span className="badge badge-favorite">Yêu thích</span>
-                  </div>
-
                   <ProductImage src={product.imageUrl} alt={product.name} />
 
                   {product.stock === 0 && (
