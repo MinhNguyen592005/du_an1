@@ -104,7 +104,7 @@ Các bước cài đặt
 Clone repository
 
 
-git clone https://github.com/vuubatluc/e-commerce.git
+git clone https://github.com/MinhNguyen592005/du_an1
 
 
 cd e-commerce
