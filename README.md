@@ -107,7 +107,7 @@ Clone repository
 git clone https://github.com/MinhNguyen592005/du_an1
 
 
-cd e-commerce
+cd frontend_web
 
 
 Cài đặt dependencies
